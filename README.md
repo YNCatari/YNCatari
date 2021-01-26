@@ -22,13 +22,13 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 
 
 **Main Administration of Operating Systems**
-<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png"/>
-<img src="https://img.icons8.com/color/48/000000/joomla.png"/>
+<code><img src="https://img.icons8.com/color/48/000000/windows-10.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/linux.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/joomla.png"/></code>
 
 **Main Content administration management cms**
-<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
-<img src="https://img.icons8.com/color/48/000000/drupal.png"/>
+<code><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/drupal.png"/></code>
 
 **Main Development tools**
 
