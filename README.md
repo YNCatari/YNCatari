@@ -26,6 +26,8 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><img src="https://img.icons8.com/color/48/4a90e2/python.png"/></code>
 <code><img src="https://img.icons8.com/color/48/4a90e2/golang.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/></code>
+<code><img src="https://img.icons8.com/color/48/4a90e2/html-5.png"/></code>
+<code><img src="https://img.icons8.com/color/48/4a90e2/css3.png"/></code>
 
 
 **Main Programming Languages and Development Technologies**
