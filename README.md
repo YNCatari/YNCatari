@@ -10,7 +10,7 @@
 
 <br><br>
 
-Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo frontend, me gusta mantenerme en constante aprendizaje e ir aplicando mis conocimientos en desafíos que ayuden a otras personas en su trabajo.
+Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo front-end y back-end, me gusta mantenerme en constante aprendizaje e ir aplicando mis conocimientos en desafíos que ayuden a otras personas en su trabajo.
 
 <br>
 
@@ -24,6 +24,12 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><a href="#"><img height="36" title="Git" alt="Git" src="https://cdn.svgporn.com/logos/git-icon.svg"></a></code>
 
 
+**Main Administration of Operating Systems**
+
+
+**Main Content administration management cms**
+
+**Main Development tools**
 
 **Frameworks, libraries and tools**
 
