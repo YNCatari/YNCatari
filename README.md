@@ -72,6 +72,7 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 
 <code><img src="https://img.icons8.com/color/48/000000/azure-1.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/></code>
 
 
 
