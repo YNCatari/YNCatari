@@ -17,8 +17,8 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 
 **Main Programming Languages and Development Technologies**
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 
 
 **Main Administration of Operating Systems**
