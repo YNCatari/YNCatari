@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/yncc/"><img align="left" alt="YN Catari Cabrera | Linkedin" width="24" title="Linkedin" alt="Linkedin" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a>
 
 <a href="https://twitter.com/yofer_nain"><img align="left" alt="YN Catari Cabrera| Twitter" width="24" title="Twitter" alt="Twitter" src="https://cdn.svgporn.com/logos/twitter.svg"></a>
-<img src="https://img.icons8.com/cute-clipart/64/4a90e2/facebook.png"/>
+<img src="https://img.icons8.com/nolan/64/facebook.png"/>
 
 
 <br><br>
