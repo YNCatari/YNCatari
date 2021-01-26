@@ -50,6 +50,7 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><img src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-insides.png"/></code>
 <code><img src="https://img.icons8.com/color/48/4a90e2/visual-studio.png"/></code>
 <code><img src="https://img.icons8.com/clouds/48/4a90e2/atom-editor.png"/></code>
+<code><img src="https://img.icons8.com/color/48/fa314a/intellij-idea.png"/></code>
 <code><img src="https://img.icons8.com/fluent/48/4a90e2/sublime-text.png"/></code>
 <code><img src="https://img.icons8.com/color/48/4a90e2/android-os.png"/></code>
 <code><img src="https://img.icons8.com/color/48/4a90e2/flutter.png"/></code>
@@ -57,9 +58,9 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 
 **Main Programming Languages and Development Technologies**
 
-<code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
-<code><img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/></code>
-<code><img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/></code>
-<code><img src="https://img.icons8.com/color/48/4a90e2/angularjs.png"/></code>
-<code><img src="https://img.icons8.com/wired/48/4a90e2/react.png"/></code>
+<code><img src="https://img.icons8.com/ios-filled/48/fa314a/laravel.png"/></code>
+<code><img src="https://img.icons8.com/color/48/fa314a/angularjs.png"/></code>
+<code><img src="https://img.icons8.com/color/48/fa314a/react-native.png"/></code>
+<code><img src="https://img.icons8.com/color/48/fa314a/material-ui.png"/></code>
+<code><img src="https://img.icons8.com/color/48/fa314a/spring-logo.png"/></code>
+
