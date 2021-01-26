@@ -6,9 +6,7 @@
 <a href="https://www.linkedin.com/in/yncc/"><img align="left" alt="YN Catari Cabrera | Linkedin" width="24" title="Linkedin" alt="Linkedin" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a>
 
 <a href="https://twitter.com/yofer_nain"><img align="left" alt="YN Catari Cabrera| Twitter" width="24" title="Twitter" alt="Twitter" src="https://cdn.svgporn.com/logos/twitter.svg"></a>
-<img src="https://img.icons8.com/nolan/64/facebook.png"/>
-<img src="https://img.icons8.com/cute-clipart/64/4a90e2/whatsapp.png"/>
-<img src="https://img.icons8.com/dusk/64/4a90e2/internet--v2.png"/>
+
 
 
 <br><br>
@@ -33,14 +31,14 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><img src="https://img.icons8.com/color/48/4a90e2/css3.png"/></code>
 
 
-**Main Programming Languages and Development Technologies**
+**Main Operating Systems of Administration**
 
 <code><img src="https://img.icons8.com/color/48/4a90e2/linux.png"/></code>
 <code><img src="https://img.icons8.com/color/48/4a90e2/windows-10.png"/></code>
 
 
 
-**Main Programming Languages and Development Technologies**
+**Main Database Administration**
 
 <code><img src="https://img.icons8.com/color/48/4a90e2/microsoft-sql-server.png"/></code>
 <code><img src="https://img.icons8.com/ios/48/4a90e2/mysql-logo.png"/></code>
@@ -51,7 +49,7 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 
 
 
-**Main Programming Languages and Development Technologies**
+**Main Development Tools Technologies**
 
 <code><img src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-insides.png"/></code>
 <code><img src="https://img.icons8.com/color/48/4a90e2/visual-studio.png"/></code>
@@ -62,7 +60,7 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><img src="https://img.icons8.com/color/48/4a90e2/flutter.png"/></code>
 
 
-**Main Programming Languages and Development Technologies**
+**Main  frameworks Programming Languages and Development Technologies**
 
 <code><img src="https://img.icons8.com/ios-filled/48/fa314a/laravel.png"/></code>
 <code><img src="https://img.icons8.com/color/48/fa314a/angularjs.png"/></code>
