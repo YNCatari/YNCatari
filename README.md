@@ -7,6 +7,8 @@
 
 <a href="https://twitter.com/yofer_nain"><img align="left" alt="YN Catari Cabrera| Twitter" width="24" title="Twitter" alt="Twitter" src="https://cdn.svgporn.com/logos/twitter.svg"></a>
 <img src="https://img.icons8.com/nolan/64/facebook.png"/>
+<img src="https://img.icons8.com/cute-clipart/64/4a90e2/whatsapp.png"/>
+<img src="https://img.icons8.com/dusk/64/4a90e2/internet--v2.png"/>
 
 
 <br><br>
