@@ -25,13 +25,15 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><img src="https://img.icons8.com/color/48/000000/windows-10.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/linux.png"/></code>
 
-
 **Main Content administration management cms**
 <code><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/drupal.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/joomla.png"/></code>
-**Main Development tools**
 
+**Main Development tools**
+<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
+<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-insides.png"/>
+<img src="https://img.icons8.com/color/48/4a90e2/microsoft-sql-server.png"/>
 **Frameworks, libraries and tools**
 
 <code><a href="https://svelte.dev"><img height="28" title="Svelte" alt="Svelte" src="https://cdn.svgporn.com/logos/svelte-icon.svg"></a></code>
