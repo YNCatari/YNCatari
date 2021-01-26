@@ -47,7 +47,7 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 
 <code><img src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-insides.png"/></code>
 <code><img src="https://img.icons8.com/color/48/4a90e2/visual-studio.png"/></code>
-<code><img src="https://img.icons8.com/clouds/100/4a90e2/atom-editor.png"/></code>
+<code><img src="https://img.icons8.com/clouds/48/4a90e2/atom-editor.png"/></code>
 <code><img src="https://img.icons8.com/fluent/48/4a90e2/sublime-text.png"/></code>
 <code><img src="https://img.icons8.com/color/48/4a90e2/android-os.png"/></code>
 <code><img src="https://img.icons8.com/color/48/4a90e2/flutter.png"/></code>
