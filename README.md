@@ -25,25 +25,11 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><img src="https://img.icons8.com/wired/48/4a90e2/react.png"/></code>
 
 
-**Main Administration of Operating Systems**
-<code><img src="https://img.icons8.com/color/48/000000/windows-10.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/linux.png"/></code>
+**Main Programming Languages and Development Technologies**
 
-**Main Content administration management cms**
-<code><img src="https://img.icons8.com/color/48/000000/wordpress.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/drupal.png"/></code>
-<code><img src="https://img.icons8.com/color/48/000000/joomla.png"/></code>
-
-**Main Development tools**
-<img src="https://img.icons8.com/color/48/000000/visual-studio.png"/>
-<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-insides.png"/>
-<img src="https://img.icons8.com/color/48/4a90e2/microsoft-sql-server.png"/>
-**Frameworks, libraries and tools**
-
-<code><a href="https://svelte.dev"><img height="28" title="Svelte" alt="Svelte" src="https://cdn.svgporn.com/logos/svelte-icon.svg"></a></code>
-<code><a href="https://https://tailwindcss.com/"><img width="28" title="TailwindCSS" alt="TailwindCSS" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"></a></code>
-<code><a href="https://angular.io/"><img height="28" title="Angular" alt="Angular" src="https://cdn.svgporn.com/logos/angular-icon.svg"></a></code>
-<code><a href="https://reactjs.org" title="ReactJS" alt="ReactJS"><img height="28" src="https://cdn.svgporn.com/logos/react.svg"></a></code>
-<code><a href="https://emotion.sh/"><img height="28" title="emotion" alt="emotion" src="https://emotion.sh/static/a76dfa0d18a0536af9e917cdb8f873b9/58e7f/emotion.png"></a></code>
-<code><a href="https://code.visualstudio.com/"><img height="28" title="Visual Studio Code" alt="Visual Studio Code" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></a></code>
-<code><a href="http://figma.com/"><img height="28" title="Figma" alt="Figma" src="https://cdn.svgporn.com/logos/figma.svg"></a></code>
+<code><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/></code>
+<code><img src="https://img.icons8.com/ios-filled/50/4a90e2/php-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/4a90e2/angularjs.png"/></code>
+<code><img src="https://img.icons8.com/wired/48/4a90e2/react.png"/></code>
