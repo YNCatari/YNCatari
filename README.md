@@ -1,4 +1,4 @@
-<h3>Hi there 👋</h3>
+<h1>Hi there 👋</h1>
 
 # I'm [YN Catari Cabrera] 
 <img align="right" width="230" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
