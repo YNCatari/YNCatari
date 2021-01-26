@@ -22,7 +22,7 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><a href="#"><img height="36" title="Javascript" alt="Javascript" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code>
 <code><a href="#"><img height="36" title="Typescript" alt="Typescript" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a></code>
 <code><a href="#"><img height="36" title="Git" alt="Git" src="https://cdn.svgporn.com/logos/git-icon.svg"></a></code>
-<code><a href="#"><img height="36" title="C++" alt="C++"src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a></code>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
 
 **Main Administration of Operating Systems**
