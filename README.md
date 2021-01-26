@@ -17,18 +17,18 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 
 **Main Programming Languages and Development Technologies**
 
-<code><a href="#"><img height="42" title="HTML5" alt="HTML5" src="https://cdn.svgporn.com/logos/html-5.svg"></a></code>
-<code><a href="#"><img height="42" title="CSS3" alt="CSS3" src="https://cdn.svgporn.com/logos/css-3.svg"></a></code>
-<code><a href="#"><img height="36" title="Javascript" alt="Javascript" src="https://cdn.svgporn.com/logos/javascript.svg"></a></code>
-<code><a href="#"><img height="36" title="Typescript" alt="Typescript" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a></code>
-<code><a href="#"><img height="36" title="Git" alt="Git" src="https://cdn.svgporn.com/logos/git-icon.svg"></a></code>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
 
 **Main Administration of Operating Systems**
-
+<img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png"/>
+<img src="https://img.icons8.com/color/48/000000/joomla.png"/>
 
 **Main Content administration management cms**
+<img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+<img src="https://img.icons8.com/color/48/000000/drupal.png"/>
 
 **Main Development tools**
 
