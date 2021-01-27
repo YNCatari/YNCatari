@@ -68,6 +68,7 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><img src="https://img.icons8.com/color/48/fa314a/react-native.png"/></code>
 <code><img src="https://img.icons8.com/color/48/fa314a/material-ui.png"/></code>
 <code><img src="https://img.icons8.com/color/48/fa314a/spring-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
 
 **Main cloud computing Administration Technologies**
 
