@@ -88,6 +88,7 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><img src="https://img.icons8.com/fluent/48/000000/security-ssl.png"/></code>
 <code><img src="https://img.icons8.com/fluent/48/000000/security-aes.png"/></code>
 <code><img src="https://img.icons8.com/ios-filled/48/000000/wifi-logo.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/internet-hub.png"/></code>
 
 
 
