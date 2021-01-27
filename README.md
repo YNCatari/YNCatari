@@ -1,6 +1,6 @@
 <h1>Hi there 👋</h1>
 
-# I'm [YN Catari Cabrera] 
+# I'm [YN Catari Cabrera] <img src="https://img.icons8.com/color/96/fa314a/crafty-fox.png"/>
 <img align="right" width="230" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 <a href="https://www.linkedin.com/in/yncc/"><img align="left" alt="YN Catari Cabrera | Linkedin" width="24" title="Linkedin" alt="Linkedin" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a>
