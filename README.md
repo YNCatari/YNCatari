@@ -11,7 +11,8 @@
 
 <br><br>
 
-Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo front-end y back-end, me gusta mantenerme en constante aprendizaje e ir aplicando mis conocimientos en desafíos que ayuden a otras personas en su trabajo.
+
+I am a software developer from Peru, currently focused on front-end and back-end development, I like to stay in constant learning and apply my knowledge in challenges that help other people in their work.
 
 <br>
 
