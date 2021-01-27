@@ -1,5 +1,6 @@
-<h1>Hi there 👋</h1>
 <img src="https://img.icons8.com/color/96/fa314a/crafty-fox.png"/>
+<h1>Hi there 👋</h1>
+
 # I'm [YN Catari Cabrera] 
 <img align="right" width="230" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
