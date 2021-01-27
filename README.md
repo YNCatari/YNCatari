@@ -82,6 +82,13 @@ Soy un desarrollador de software de Perú, actualmente enfocado en el desarrollo
 <code><img src="https://img.icons8.com/color/48/000000/drupal.png"/></code>
 <code><img src="https://img.icons8.com/color/48/000000/joomla.png"/></code>
 
+**Main Graphic Design Tools Technologies**
+
+<code><img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/></code>
+<code><img src="https://img.icons8.com/color/48/000000/adobe-bridge.png"/></code>
+<code><img src="https://img.icons8.com/fluent/48/000000/adobe-dreamweaver.png"/></code>
+
 **Main Information Security**
 
 <code><img src="https://img.icons8.com/fluent/48/000000/security-checked.png"/></code>
